@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **redux, rtk query.**
 
-- 📫 How to reach me **pamsam29@gmail.com**
+- 📫 How to reach me **pamsam297@gmail.com**
 
 - ⚡ Fun fact **React was created by Facebook in 2011 and became open-source in 2013.**
 
