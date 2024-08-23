@@ -23,5 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saugatkadariya&show_icons=true&locale=en" alt="saugatkadariya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugatkadariya&" alt="saugatkadariya" /></p>
 ![Snake animation](https://raw.githubusercontent.com/saugatkadariya/saugatkadariya/output/github-contribution-grid-snake-dark.svg)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saugatkadariya&" alt="saugatkadariya" /></p>
